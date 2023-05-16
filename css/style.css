@@ -1,0 +1,31 @@
+body{
+    background-color: black;
+    color: whitesmoke;
+}
+
+a {
+    color: aqua;
+}
+
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    font-size: 75px;
+}
+
+.recipe-image {
+    width: 400px;
+    height: auto;
+}
+
+.ingredients {
+    text-align: right;
+    list-style: none;
+}
+
+.recipe-links {
+    text-align: right;
+    list-style: none;
+}
