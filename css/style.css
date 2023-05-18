@@ -23,15 +23,13 @@ h1 {
 }
 
 .recipe-heading {
-    text-align: left;
-    margin-left: 50px;
+    text-align: center;
 }
 
 .recipe-links {
-    align-self: center;
-    display: inline-flex;
+    display: flex;
     list-style: none;
-    width: auto;
+    justify-content: center;
 }
 
 .recipe-links a {
